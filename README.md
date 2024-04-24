@@ -1,7 +1,7 @@
-#WORDLE
+# WORDLE
 This is a simple and easy lines of code of a classic game Wordle implemented in C . It allows user to play a word quiz manually.
 
-##FEATURES
+## FEATURES
 * Simple and concise command line interface for smoothly hang on with program
 * Multiple colour appearence might be attractive and convincing
 * User can put on upto 6 guesses each words having five letters and the word which are already in library will be considered the correct and will be displayed as per....
