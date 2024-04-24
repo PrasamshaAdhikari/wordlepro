@@ -9,9 +9,9 @@ This is a simple and easy lines of code of a classic game Wordle implemented in 
   ## How to Play?
   1) Download the file
   2) Open new terminal and type:
-      (gcc c.c)
+      [gcc c.c]
   3) then
-     (./a. exe)
-  5) The program will run , allowing you to explore more of your word breistroming skill
+     [./a.exe]
+  5) The program will run , allowing you to explore more of your word brainstroming skill
 
       # HAVE_FUN !
